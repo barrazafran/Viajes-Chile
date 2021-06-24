@@ -1,0 +1,15 @@
+body {
+    font-family: 'Raleway', sans-serif; 
+    }
+nav { 
+    width: 100%;
+    color: lightgray;
+}
+.linea {
+    color: #0dcaf0;
+}
+.box{
+    height: 20px;
+    margin: 5px;
+    background-color: tomato;
+}
